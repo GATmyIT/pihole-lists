@@ -1,0 +1,33 @@
+# This hosts file is a collection of hosts for internal sources,
+#
+# Date: December 11, 2017
+# Number of unique domains: 6
+# Revision #: 3
+#
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+fe80::1%lo0 localhost
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# AdAway default blocklist
+# Blocking mobile ad providers and some analytics providers
+#
+# License:
+# CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
+
+
+0.0.0.0 bitmedia.io
+0.0.0.0 cdn.bitmedia.io
+0.0.0.0 www.bitmedia.io
+0.0.0.0 static.bitmedia.io
+0.0.0.0 www.bitstarz.com
+0.0.0.0 bitstarz.com
